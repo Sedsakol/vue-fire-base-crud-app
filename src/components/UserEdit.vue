@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="form-group">
-                    <button class="btn btn-primary btn-block">Add User</button>
+                    <button class="btn btn-primary btn-block">Update User</button>
                 </div>
             </form>
         </div>
